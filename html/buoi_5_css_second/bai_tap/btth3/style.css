@@ -1,0 +1,20 @@
+div {
+  width: 900px;
+}
+p {
+  padding: 0 20px;
+}
+h2 {
+  padding: 0 20px;
+  color: orange;
+}
+.p1 {
+  color: blueviolet;
+}
+.p2 {
+  color: pink;
+}
+.p3 {
+  background-color: burlywood;
+  padding: 20px;
+}

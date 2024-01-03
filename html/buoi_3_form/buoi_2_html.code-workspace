@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../buoi_2_html"
+	},
+	{
+		"path": "../../JavaScript/JS-EcommerceApp"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "buoi_3_form"
+  }
+}
